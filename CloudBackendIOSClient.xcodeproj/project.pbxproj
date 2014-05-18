@@ -578,15 +578,15 @@
 		2F72EBB516CB288F00C29E08 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Takashi Manita (R5B9CV3QMB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Takashi Manita (R5B9CV3QMB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sample/SupportFiles/CloudBackendIOSClient-Prefix.pch";
 				HEADER_SEARCH_PATHS = "CloudBackendIOSClient/**";
 				INFOPLIST_FILE = "sample/SupportFiles/CloudBackendIOSClient-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = dev;
-				PROVISIONING_PROFILE = "4D1C78F6-AAEA-41D2-AB8D-41B99F8751D3";
+				PROVISIONING_PROFILE = "1FBBCBC6-84FD-4603-9678-366CFCC55A7F";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -594,15 +594,15 @@
 		2F72EBB616CB288F00C29E08 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Takashi Manita (R5B9CV3QMB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Takashi Manita (R5B9CV3QMB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sample/SupportFiles/CloudBackendIOSClient-Prefix.pch";
 				HEADER_SEARCH_PATHS = "CloudBackendIOSClient/**";
 				INFOPLIST_FILE = "sample/SupportFiles/CloudBackendIOSClient-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = dev;
-				PROVISIONING_PROFILE = "4D1C78F6-AAEA-41D2-AB8D-41B99F8751D3";
+				PROVISIONING_PROFILE = "1FBBCBC6-84FD-4603-9678-366CFCC55A7F";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
